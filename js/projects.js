@@ -15,8 +15,8 @@ const projects = [
 		imageUrl: "front-01.png",
 		technologies: ["Html", "Css"],
 		links: [
-			"https://github.com/web-rest-api/tp1-site",
-			"https://web-rest-api.github.io/tp1-site/",
+			"/Users/abdellah/Documents/DEV_WEB_ENSEA/personal-portfolio/projets/tp-1-bootstrap-main/index.html",
+			"/Users/abdellah/Documents/DEV_WEB_ENSEA/personal-portfolio/projets/tp-1-bootstrap-main/index.html",
 		],
 	},
 	{
